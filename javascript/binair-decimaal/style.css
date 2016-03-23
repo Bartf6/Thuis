@@ -1,0 +1,20 @@
+body
+{
+    margin: 0;
+}
+
+#binair
+{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin-bottom: 5px;
+}
+
+
+#decimaal
+{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
