@@ -1,12 +1,12 @@
 body {
-        background-image: url(./afbeelding/pineapple.png);
 }
 
 
 #pineapple
 {
-    height: 50px;
-    width: 50px;
-
+    height: 900px;
+    width: 900px;
+    background-image: url(./afbeelding/pineapple.png);
     background-repeat: no-repeat;
+    background-size: 100px;
 }

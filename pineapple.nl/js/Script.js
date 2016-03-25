@@ -4,3 +4,8 @@ function playAudio()
 {
     pineapple.play();
 }
+
+function Pineapples()
+{
+    
+}
