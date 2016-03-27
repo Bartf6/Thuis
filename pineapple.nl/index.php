@@ -7,11 +7,13 @@
     <head>
         <meta charset="utf-8" />
         <title></title>
+        <script src="./js/jquery.js"></script>
         <script src="./js/Script.js"></script>
         <link rel="stylesheet" type="text/css" href="./css/style.css">
     </head>
     <body>
         <button onclick="playAudio()" type="button">Play pineapples</button>
         <div id="pineapple"></div>
+        <p id="test">kappa</p>
     </body>
 </html>

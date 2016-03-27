@@ -4,9 +4,14 @@ body {
 
 #pineapple
 {
-    height: 900px;
-    width: 900px;
     background-image: url(./afbeelding/pineapple.png);
     background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
     background-size: 100px;
+    display: none;
+}
+
+#test
+{
 }
