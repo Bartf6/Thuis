@@ -3,15 +3,11 @@ body
 }
 
 
-#pineapple
+.pineapple
 {
-    position: absolute;
     background-image: url(./afbeelding/pineapple.png);
     background-repeat: repeat;
-    width: 99.5%;
-    height: 99.5%;
     background-size: 100px;
-    display: none;
 }
 
 #nav
