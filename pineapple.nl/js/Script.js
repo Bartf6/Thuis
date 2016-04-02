@@ -7,12 +7,11 @@ function playAudio()
 {
     var x = Math.floor((Math.random() * 5) + 1);
 
-    if (x == 2)
+    if (x == 2) 
     {
         pineapple.play();
-        document.getElementById('pineapple').style.display = 'block';
+        document.getElementById('#pineapple').style.display = 'block';
     }
-    console.log(x);
 }
 
 $(document).ready(function(){

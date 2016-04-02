@@ -1,17 +1,47 @@
-body {
+body
+{
 }
 
 
 #pineapple
 {
+    position: absolute;
     background-image: url(./afbeelding/pineapple.png);
-    background-repeat: no-repeat;
-    width: 100px;
-    height: 100px;
+    background-repeat: repeat;
+    width: 99.5%;
+    height: 99.5%;
     background-size: 100px;
     display: none;
 }
 
-#test
+#nav
 {
+    margin-left: 25%;
+}
+
+#nav ul
+{
+    list-style-type: none;
+    margin-left: 15%;
+}
+
+#nav ul li
+{
+    border: 1px solid black;
+    display: inline;
+    padding: 0px 40px 0px 40px;
+}
+
+#nav ul li a
+{
+    text-decoration: none;
+}
+
+#inhoud
+{
+    border: 2px solid black;
+    width: 50%;
+    height: 50vh;
+    margin-left: 25%;
+    margin-right: 25%;
 }
