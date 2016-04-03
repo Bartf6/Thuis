@@ -1,5 +1,6 @@
 body
 {
+    background-image: url(./afbeelding/background.jpg);
 }
 
 
@@ -26,11 +27,13 @@ body
     border: 1px solid black;
     display: inline;
     padding: 0px 40px 0px 40px;
+    background-color: #e1633a;
 }
 
 #nav ul li a
 {
     text-decoration: none;
+    color: black;
 }
 
 #inhoud
@@ -40,4 +43,5 @@ body
     height: 50vh;
     margin-left: 25%;
     margin-right: 25%;
+    background-color: #e1633a;
 }
